@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+  <meta charset="utf-8"/> 
+  <title>ssm教程</title> 
+</head> 
+<body> 
+<span>1.创建 Dynamic Web Project</span>
+<span>2.上传jar包</span>
+<ul>
+  <li>spring-aop</li>
+  <li>spring-aspects</li>
+  <li>spring-beans</li>
+  <li>spring-context</li>
+  <li>spring-context-support</li>
+  <li>spring-core</li>
+  <li>spring-expression</li>
+  <li>spring-jdbc</li>
+  <li>spring-orm</li>
+  <li>spring-tx</li>
+  <li>spring-web</li>
+  <li>spring-webmvc</li>
+</ul>
+</ul>
+</ul>
+</body> 
+</html>
